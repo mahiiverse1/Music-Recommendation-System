@@ -1,32 +1,8 @@
-[![Contributors][contributors-shield]][contributors-url] 
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/radiaoctive11/rezonance">
-    <img src="STATIC_IMG/head.svg" alt="Logo" width="420" height="420">
-
-    
-  </a>
-
-  <h1 align="center">reZonance</h1>
 
   <p align="center">
     Content Based Music Recommendation Service 
     <br />
-    <a href="https://rezonance.vercel.app"><strong>Visit the website »</strong></a>
-    <br />
-    <br />
-    <a href="https://rezonance.vercel.app">View Demo</a>
-    ·
-    <a href="https://github.com/radiaoctive11/rezonance/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/radiaoctive11/rezonance/issues">Request Feature</a>
-  </p>
+    
 </p>
 
 
@@ -53,7 +29,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-<strong>reZonance</strong> is a <strong>Content Based Recommendation Service</strong> which suggests songs similar to the one chosen by the user. It has approximately *160,000 songs* in its database and takes about *300ms to generate recommendations*. 
+<strong>Content Based Recommendation Service</strong> which suggests songs similar to the one chosen by the user. It has approximately *160,000 songs* in its database and takes about *300ms to generate recommendations*. 
 
 ## Following are some core concept on which this project relies on
 
@@ -209,33 +185,4 @@ Contributions are what make the open source community such an amazing place to b
 
 
 
-
-
-<!-- CONTACT -->
-## Contact
-
-Arijit Roy - [GitHub](https://github.com/radioactive11) - roy.arijit2001@gmail.com
-
-Kartik Goel - [GitHub](https://github.com/kg-kartik) - goel.kartik39@gmail.com
-
-Website:  [https://rezonance.vercel.app](https://rezonance.vercel.app/)
-
-
-<p align = "center" >Thank You StackOverflow :sweat_smile: </p>
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/radioactive11/rezonance.svg?style=flat-square
-[contributors-url]: https://github.com/radiaoctive11/rezonance/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/radioactive11/rezonance.svg?style=flat-square
-[forks-url]: https://github.com/radiaoctive11/rezonance/network/members
-[stars-shield]: https://img.shields.io/github/stars/radioactive11/rezonance.svg?style=flat-square
-[stars-url]: https://github.com/radiaoctive11/rezonance/stargazers
-[issues-shield]: https://img.shields.io/github/issues/radioactive11/rezonance.svg?style=flat-square
-[issues-url]: https://github.com/radiaoctive11/rezonance/issues
-[license-shield]: https://img.shields.io/github/license/radioactive11/rezonance.svg?style=flat-square
-[license-url]: https://github.com/radiaoctive11/rezonance/blob/master/LICENSE.txt
-[product-screenshot]: STATIC_IMG/vid.gif
 
