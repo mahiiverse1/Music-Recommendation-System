@@ -145,26 +145,6 @@ npm start
 <br />
 
 
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-
-* ### Visit the [website](https://rezonance.vercel.app) and click on get started
-
-<img src="STATIC_IMG/ss1.png">
-
-* ### Enter name of Song or Artist name,  for which you want similar songs, to search. Click on a card to chose a song.
-
-<img src="STATIC_IMG/ss2.png">
-
-
-* ### In the recommendation page, click on a song to listen to a 30 second preview of the song. Click again on the card to pause it. 
-
-*NOTE: some songs do not have a preview due to copyright issues.*
-
-<img src="STATIC_IMG/ss3.png">
-
 <!-- ROADMAP -->
 ## Roadmap
 
